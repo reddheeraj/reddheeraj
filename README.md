@@ -2,8 +2,8 @@
 
 I'm a Student ~software developer~ in my 3rd year of engineering, passionate about building web applications and ML models that may solve real-world problems. Welcome to my GitHub page, where you can find some of my open-source project contributions and my personal projects.
 
-![Dheeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=reddheeraj&show_icons=true&theme=radical) <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reddheeraj&layout=compact&hide=html&theme=radical)
+<!-- ![Dheeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=reddheeraj&show_icons=true&theme=radical) <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reddheeraj&layout=compact&hide=html&theme=radical) -->
 
 ## Skills
 
