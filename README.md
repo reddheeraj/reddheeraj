@@ -1,21 +1,20 @@
 # Hello, I'm Dheeraj! 👋
 
-I'm a Student ~software developer~ in my 3rd year of engineering, passionate about building web applications and ML models that may solve real-world problems. Welcome to my GitHub page, where you can find some of my open-source project contributions and my personal projects.
+I'm a Student ~Data Scientist~ in my 4th year of engineering, passionate about building web applications and ML models that may solve real-world problems. Welcome to my GitHub page, where you can find some of my open-source project contributions and my personal projects.
 
-<!-- ![Dheeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=reddheeraj&show_icons=true&theme=radical) <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reddheeraj&layout=compact&hide=html&theme=radical) -->
+![Dheeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=reddheeraj&show_icons=true&theme=radical) <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reddheeraj&layout=compact&hide=html&theme=radical) 
 
 ## Skills
 
 These are some of the programming languages, frameworks, and technologies that I'm proficient in:
 
-- C++
-- Python
-- JavaScript
-- React.js
-- Node.js
-- HTML/CSS
-- Bash
+- C++ -> DSA
+- Python -> Computer Vision, NLP, Data Analysis & Engineering
+- Streamlit -> Building dashboards
+- Js/HTML/CSS -> Front end Development
+- React.js -> Front end Development
+- Bash -> Scripting for automating processes.
 
 ## Contact
 
