@@ -1,6 +1,6 @@
 # Hello, I'm Dheeraj! 👋
 
-I'm a Student ~Data Scientist~ in my 4th year of engineering, passionate about building web applications and ML models that may solve real-world problems. Welcome to my GitHub page, where you can find some of my open-source project contributions and my personal projects.
+I'm a Student ~Data Scientist~ in my Senior year of engineering, passionate about building data solutions, web applications, and ML models that may solve real-world problems. Welcome to my GitHub page, where you can find some of my open-source project contributions and my personal projects.
 
 ![Dheeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=reddheeraj&show_icons=true&theme=radical) <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reddheeraj&layout=compact&hide=html&theme=radical) 
