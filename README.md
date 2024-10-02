@@ -1,6 +1,6 @@
 # Hello, I'm Dheeraj! 👋
 
-I'm a Student ~Data Scientist~ who graduated from Information Science & Engineering, passionate about building data solutions, web applications, and ML models that may solve real-world problems. Welcome to my GitHub page, where you can find some of my open-source project contributions and my personal projects.
+I'm a Master's student pursuing Data Science at Texas A&M University, passionate about building data solutions using Data Science and ML, that may solve real-world problems. Welcome to my GitHub page, where you can find some of my open-source project contributions and my personal projects.
 
 <!-- ![Dheeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=reddheeraj&show_icons=true&theme=radical) <br> -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reddheeraj&layout=compact&hide=html&theme=radical) -->
