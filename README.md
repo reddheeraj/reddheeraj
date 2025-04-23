@@ -10,7 +10,7 @@ I'm a Master's student pursuing Data Science at Texas A&M University, passionate
 Feel free to reach out to me via email or social media:
 
 - Email: meetdheerajreddy@gmail.com
-- LinkedIn: [DheerajReddy](https://www.linkedin.com/in/dheeraj2002reddy/)
+- LinkedIn: [DheerajReddy](https://www.linkedin.com/in/dheerajmudireddy)
 
 
 <br> ![](https://komarev.com/ghpvc/?username=reddheeraj)<br>
